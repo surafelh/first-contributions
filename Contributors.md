@@ -121,6 +121,7 @@
 - [Kasra Tabrizi]
 - [ymrz]
 - [Amanda Rodger](https:;//github.com/AARodgers)
+- [Surafel Hailu](https:;//github.com/surafelh)
 - [Nicolas Pin](https://github.com/pythareme)
 - [Suyash Bhiste](https://github.com/SuyashBhiste)
 - [Swapnil Ghosh](https:/github.com/GOSHROW)
