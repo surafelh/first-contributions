@@ -37,6 +37,7 @@
 - [Agrim Jain](https://github.com/Agrim2411)
 - [Beomus](https://github.com/Beomus)
 - [Sourabh Jurri](https://github.com/pintu236)
+- [Surafel Hailu] (https://github.com/surafelh)
 - [Sam Pinheiro](https://github.com/sapinheiro)
 - [Suvranil Dutta](https://github.com/neil-dev)
 - [Maria Bolanos](https://github.com/mariabp)
